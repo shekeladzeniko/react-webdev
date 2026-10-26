@@ -1,11 +1,35 @@
 {
   "version": 3,
-  "savedAt": "2026-10-26T14:57:04.132Z",
+  "savedAt": "2026-10-26T15:46:53.091Z",
   "groups": [
     {
       "viewColumn": 1,
-      "tabs": []
+      "tabs": [
+        {
+          "path": "davaleba1/src/App.jsx",
+          "pinned": false,
+          "preview": false,
+          "selection": {
+            "start": {
+              "line": 5,
+              "character": 23
+            },
+            "end": {
+              "line": 5,
+              "character": 23
+            }
+          }
+        },
+        {
+          "path": "davaleba1/src/main.jsx",
+          "pinned": false,
+          "preview": false
+        }
+      ]
     }
   ],
-  "active": null
+  "active": {
+    "path": "davaleba1/src/App.jsx",
+    "viewColumn": 1
+  }
 }
