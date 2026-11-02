@@ -1,27 +1,27 @@
 {
   "version": 3,
-  "savedAt": "2026-10-26T15:46:53.091Z",
+  "savedAt": "2026-11-02T16:01:11.166Z",
   "groups": [
     {
       "viewColumn": 1,
       "tabs": [
         {
-          "path": "davaleba1/src/App.jsx",
+          "path": "react-foundaition/src/App.jsx",
           "pinned": false,
           "preview": false,
           "selection": {
             "start": {
-              "line": 5,
-              "character": 23
+              "line": 2,
+              "character": 0
             },
             "end": {
-              "line": 5,
-              "character": 23
+              "line": 2,
+              "character": 0
             }
           }
         },
         {
-          "path": "davaleba1/src/main.jsx",
+          "path": "react-foundaition/src/components/header.jsx",
           "pinned": false,
           "preview": false
         }
@@ -29,7 +29,7 @@
     }
   ],
   "active": {
-    "path": "davaleba1/src/App.jsx",
+    "path": "react-foundaition/src/App.jsx",
     "viewColumn": 1
   }
 }
