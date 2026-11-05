@@ -1,4 +1,4 @@
-import logo from "./assets/react-core-concepts.png";
+import logo from "../assets/react-core-concepts.png";
 
 function getRandomInt() {
   return Math.floor(Math.random() * 3);
