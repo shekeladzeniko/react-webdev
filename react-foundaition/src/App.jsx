@@ -1,6 +1,7 @@
 import Header from "./components/Header";
 import CoreConcept from "./components/CoreConcept";
 import { CORE_CONCEPTS } from "./data";
+import TabButton from "./components/tabbutton";
 
 function App() {
   return (
@@ -30,6 +31,16 @@ function App() {
             description={CORE_CONCEPTS[3].description}
           />
         </ul>
+
+        <section id="examples">
+          <h2>Examples</h2>
+          <menu>
+            <TabButton label="components" />
+            <TabButton label="Components" />
+            <TabButton label="Components" />
+            <TabButton label="Components" />
+          </menu>
+        </section>
       </main>
     </div>
   );
